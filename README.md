@@ -45,7 +45,7 @@ try {
 ```
 
 ## License
-MIT
+public domain
 
 ## Author
 Masaaki Yonebayashi
