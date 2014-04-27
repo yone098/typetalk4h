@@ -3,7 +3,7 @@ typetalk4h
 
 Hack library for typetalk.
 
-== Usage
+## Usage
 ```php
 <?hh
 require_once('TypetalkClient.php');
@@ -44,8 +44,8 @@ try {
 }
 ```
 
-== License
+## License
 MIT
 
-== Author
+## Author
 Masaaki Yonebayashi
